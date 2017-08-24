@@ -5,6 +5,7 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
     android:id="@+id/background"
+    android:background="#EF9A9A"
     tools:context="com.treebricks.funfacts.MainActivity">
 
     <include layout="@layout/content_main" />
